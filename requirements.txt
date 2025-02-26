@@ -1,0 +1,6 @@
+streamlit==1.30.0
+pandas==2.2.0
+datasets==2.18.0
+gtts==2.4.0
+torch==2.2.0
+transformers==4.38.0 
